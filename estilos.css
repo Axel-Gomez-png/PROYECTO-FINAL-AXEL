@@ -1,0 +1,212 @@
+*{
+	font-family: 'Source Sans Pro', sans-serif;
+}
+
+body{
+	background-color: #85C1E9 ;
+	overflow: hidden;
+}
+
+
+.separacion-izquierda{
+	position: absolute;
+	width: 320px;
+	height: 743px;
+	border: 5px solid black;
+	left: 0%;
+	top: 0%;
+	background-color: black;
+
+}
+
+
+
+
+.sithimg{
+	position: relative;
+	bottom: 215px;
+	transform: rotate(90deg) scale(0.6);
+	left: -20px;
+	opacity: 50%;
+}
+
+
+
+#logo{
+	position: absolute;
+	height: 100px;
+	width: 100px;
+	border-radius: 50%;
+	left: 100px;
+	top: 28%;
+
+}
+
+.act1 button, .act2 button, .act3 button, .act4 button,.act5 button, .act6 button,.act7 button{
+
+	position: absolute;
+	left: 50px;
+	bottom: 10%;
+	width: 70%;
+	cursor: pointer;
+}
+.act1 a, .act2 a, .act3 a, .act4 a,.act5 a, .act6 a{
+text-decoration: none;
+}
+
+
+.separacion-izquierda h3{
+	position: absolute;
+	color: white;
+	top: 19%;
+	font-size: 35px;
+	left: 35px;
+}
+
+.separacion-izquierda h3:hover{
+	color: rgba(122, 149, 167, 1);
+}
+
+.separacion-izquierda h4{
+	position: absolute;
+	color: white;
+	top: 26%;
+	font-size: 25px;
+	left: 70px;
+}
+
+.separacion-izquierda h4:hover{
+	color: rgba(122, 149, 167, 1);
+}
+
+.separacion-izquierda h2{
+	position: absolute;
+	color: white;
+	bottom: 10%;
+	font-size: 25px;
+	left: 27px;
+}
+
+.separacion-izquierda h2:hover{
+	color: rgba(122, 149, 167, 1);
+}
+
+
+.act1{
+	position: absolute;
+	width: 300px;
+	height: 200px;
+	border: 5px solid black;
+	left: 50px;
+	top: 10%;
+	background-color: #34495E;
+    opacity: 77%
+}
+
+.act1 h2{
+	position: relative;
+	color: white;
+	text-align: center;
+}
+
+.act2{
+	position: absolute;
+	width: 300px;
+	height: 200px;
+	border: 5px solid black;
+	left: 400px;
+	top: 10%;
+	background-color: #34495E;
+    opacity: 77%
+}
+
+.act2 h2{
+	position: relative;
+	color: white;
+	text-align: center;
+}
+
+.act3{
+	position: absolute;
+	width: 300px;
+	height: 200px;
+	border: 5px solid black;
+	left: 750px;
+	top: 10%;
+	background-color: #34495E;
+    opacity: 77%
+}
+
+.act3 h2{
+	position: relative;
+	color: white;
+	text-align: center;
+}
+
+.act4{
+	position: absolute;
+	width: 300px;
+	height: 200px;
+	border: 5px solid black;
+	left: 50px;
+	bottom: 5%;
+	background-color: #34495E;
+    opacity: 77%
+}
+
+.act4 h2{
+	position: relative;
+	color: white;
+	text-align: center;
+}
+
+.act5{
+	position: absolute;
+	width: 300px;
+	height: 200px;
+	border: 5px solid black;
+	left: 400px;
+	bottom: 5%;
+	background-color: #34495E;
+    opacity: 77%
+}
+
+.act5 h2{
+	position: relative;
+	color: white;
+	text-align: center;
+}
+
+.act6{
+	position: absolute;
+	width: 300px;
+	height: 200px;
+	border: 5px solid black;
+	left: 750px;
+	bottom: 5%;
+	background-color: #34495E;
+    opacity: 77%
+}
+
+.act6 h2{
+	position: relative;
+	color: white;
+	text-align: center;
+}
+
+.act7{
+	position: absolute;
+	width: 300px;
+	height: 200px;
+	border: 5px solid black;
+	left: 1100px;
+	bottom: 5%;
+	background-color: #34495E;
+    opacity: 77%
+}
+
+.act7 h2{
+	position: relative;
+	color: white;
+	text-align: center;
+}
